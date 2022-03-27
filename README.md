@@ -1,7 +1,7 @@
 ### Hi, I'm Diana! 👋
 
 - 🔭 I’m currently working on Car Website
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front-End Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I never received my acceptance letter to Hogwarts😁
