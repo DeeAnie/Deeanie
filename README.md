@@ -24,12 +24,12 @@
 ### Languages and Tools:
 <div>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="HTML5 logo" width="43px" title='HTML5'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS3 logo" width="30px" title='CSS3'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="Bootstrap logo" width="45px" title='Bootstrap'/>
   <img src ="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass logo" width="45px" title='Sass'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  <img src ="https://cdn.worldvectorlogo.com/logos/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
- <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="WordPress logo" width="4%" title='WordPress'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript logo" width="40px" title='JavaScript'/>
+  <img src ="https://cdn.worldvectorlogo.com/logos/es6.svg" alt="ES6 logo" width="40px" title='ES6'/>
+ <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="WordPress logo" width="40px" title='WordPress'/>
 <div> 
 
 ### Tools
