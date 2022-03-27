@@ -16,6 +16,6 @@
   <img align="left" alt="Diana's Telegram" | width="28px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />
 </a>
 <br />
-<br />
-
-
+<br />                                                                                         
+                                                                                               
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianazhusupbek&show_icons=true&theme=radical)
