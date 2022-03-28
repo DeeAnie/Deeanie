@@ -19,27 +19,32 @@
 <br />
 
 ![ ](https://komarev.com/ghpvc/?username=dianazhusupbek&color=green)
-<br />  
+<br />
 
-### Languages and Tools:
-<div>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="HTML5 logo" width="43px" title='HTML5'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS3 logo" width="30px" title='CSS3'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="Bootstrap logo" width="45px" title='Bootstrap'/>
-  <img src ="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass logo" width="45px" title='Sass'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript logo" width="40px" title='JavaScript'/>
-  <img src ="https://cdn.worldvectorlogo.com/logos/es6.svg" alt="ES6 logo" width="40px" title='ES6'/>
- <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="WordPress logo" width="40px" title='WordPress'/>
-<div> 
+### Tech & Tools Preference
 
-### Tools
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+<br />
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<img src="https://img.shields.io/badge/-WordPress-21759b?style=flat&logo=WordPress&logoColor=ffffff">
+![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> 
 
-<div>
-  <img src ="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma logo" width="25px" title='Figma'/>
-  <img src ="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="VS Code logo" width="50px" title='Visual Studio Code'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git logo" width="80px" title='Git'/>
-  <img src ="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack logo" width="40px" title='Webpack'/>
-</div>
 <br />
   
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianazhusupbek&show_icons=true&theme=radical)
