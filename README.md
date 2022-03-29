@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I never received my acceptance letter to Hogwarts😁
 - 📫 How to reach me: <br />
-<a href="mailto:diana.zhusupbekova.kk@gmail.com">
+<a href="https://mail.google.com/mail/u/diana.zhusupbekova.kk@gmail.com" target="_blank">
   <img align="left" alt="Diana Zhusupbekova" | Email" width="28px" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/344/external-email-contact-us-xnimrodx-lineal-color-xnimrodx-4.png" />
 </a>
 <a href="https://www.linkedin.com/in/diana-zhusupbekova-727034217/">
