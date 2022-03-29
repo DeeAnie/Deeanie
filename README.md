@@ -36,15 +36,14 @@
 <br />
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img src="https://img.shields.io/badge/-WordPress-21759b?style=flat&logo=WordPress&logoColor=ffffff">
-![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> 
-
+<!--<img src="https://img.shields.io/badge/-WordPress-21759b?style=flat&logo=WordPress&logoColor=ffffff">
+![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma) --> 
 <br />
   
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianazhusupbek&show_icons=true&theme=radical)
