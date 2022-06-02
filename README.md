@@ -48,4 +48,4 @@
   
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=diianka&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diiankak&theme=radical&exclude_repo=github-readme-stats,diianka.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diianka&theme=radical&exclude_repo=github-readme-stats,diianka.github.io)
