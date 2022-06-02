@@ -46,6 +46,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma) --> 
 <br />
   
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=diianka&show_icons=true&theme=radical)
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deeanie&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diianka&theme=radical&exclude_repo=github-readme-stats,diianka.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeanie&theme=radical&exclude_repo=github-readme-stats,Deeanie.github.io)
